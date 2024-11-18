@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>city_json_data.json</file>
+    </qresource>
+</RCC>
